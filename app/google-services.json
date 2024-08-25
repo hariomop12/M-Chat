@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683506565858",
+    "project_id": "m-chat-74821",
+    "storage_bucket": "m-chat-74821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683506565858:android:58826078050f1fdfb894bb",
+        "android_client_info": {
+          "package_name": "com.example.mchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIiXLWpnjKb5LC3CIJUCOQqswSc2oZDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
